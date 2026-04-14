@@ -6,8 +6,8 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-![Linkedin Badge](https://img.shields.io/badge/Sharifjonov_Abduraxim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abduraxim-sharifjonov-034472388/)
-[![Telegram Badge](https://img.shields.io/badge/@SharifjonovAbduraxim-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/a_sh_abdurahim)]([https://t.me/a_sh_abduraxim](https://t.me/a_sh_abdurahim)) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abduraxim-sharifjonov-034472388/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@a_sh_abdurahim)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
