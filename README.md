@@ -6,8 +6,8 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-![Linkedin Badge](https://img.shields.io/badge/sharifjonov_abdurahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abduraxim-sharifjonov-034472388/)
-[![Telegram Badge](https://img.shields.io/badge/@sharifjonovabdurahim-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/a_sh_abdurahim)]([https://t.me/a_sh_abduraxim](https://t.me/a_sh_abdurahim)) 
+![Linkedin Badge](https://img.shields.io/badge/Sharifjonov_Abdurahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abduraxim-sharifjonov-034472388/)
+[![Telegram Badge](https://img.shields.io/badge/@SharifjonovAbdurahim-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/a_sh_abdurahim)]([https://t.me/a_sh_abduraxim](https://t.me/a_sh_abdurahim)) 
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -34,6 +34,3 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdurahimSharifjonov&show_icons=true&theme=gotham" alt="AbdurahimSharifjonov" />
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbdurahimSharifjonov&theme=matrix" alt="AbdurahimSharifjonv" />
