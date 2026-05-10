@@ -1,25 +1,48 @@
-# Backend Developer
+<h1 align="center">Hey 👋 I'm Abduraxim</h1>
 
-## Hi there! 👋
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
+</div>
 
-I'm a back-end software engineer from Tashkent, Uzbekistan.  
-Building scalable web apps and APIs using Python & PHP.  
-Co-founder @ [Startup.uz](https://startup.uz)  
+###
 
-## ⚡ Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<div align="center">
+  <a href="https://linkedin.com/in/abduraxim-sharifjonov-034472388">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://bymerit.onrender.com">
+    <img src="https://img.shields.io/static/v1?message=ByMerit&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurahim-SH&show_icons=true&theme=dark)
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahim-SH&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdurahim-SH&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Abdurahim-SH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
+</div>
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abduraxim-sharifjonov-034472388)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdurahim-SH/Abdurahim-SH/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdurahim-SH/Abdurahim-SH/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abdurahim-SH/Abdurahim-SH/pacman-output/pacman-contribution-graph.svg">
+</picture>
