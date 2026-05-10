@@ -48,6 +48,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdurahim-SH&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahim-SH&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdurahim-SH/Abdurahim-SH/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdurahim-SH/Abdurahim-SH/pacman-output/pacman-contribution-graph.svg">
