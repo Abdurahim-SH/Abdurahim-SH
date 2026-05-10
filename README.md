@@ -32,10 +32,7 @@
   <a href="https://linkedin.com/in/abduraxim-sharifjonov-034472388">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://bymerit.onrender.com">
-    <img src="https://img.shields.io/static/v1?message=ByMerit&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/a_sh_abdurahim">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
