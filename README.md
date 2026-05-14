@@ -18,6 +18,7 @@
 
 ```js
 const abduraxim = {
+  age:      16
   role:     "Backend Developer",
   location: "Tashkent, Uzbekistan 🇺🇿",
   focus:    ["Python", "FastAPI", "Laravel", "PHP"],
